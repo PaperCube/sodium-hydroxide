@@ -1,7 +1,7 @@
 # Introduction
 
-** This program is extremely dangerous. It's only for test purpose, therefore I strongly recommend you not to run it anywhere. **
-** This project has been discontinued forever as well, and I won't take any responsibilities for any consequences **
+**This program is extremely dangerous. It's only for test purpose, therefore I strongly recommend you not to run it anywhere.**
+**This project has been discontinued forever as well, and I won't take any responsibilities for any consequences**
 
 Sodium hydroxide, especially concentrated, is very corrosive and corrodes certain materials.
 This program, named after Sodium Hydroxide, damages files by rewriting them with random bytes.
